@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+   <ul class="collection">
+      <li class="collection-item"><a href="/admin/cats">cats (the blogs categories)</a></li>
+      <li class="collection-item"><a href="/admin/posts">posts</a></li>
+      <li class="collection-item"><a href="/admin/tst">tst</a></li>
+      <li class="collection-item"><a href="/code_gen">code gen(for dev)</a></li>
+      <li class="collection-item"><a href="/admin/settings">settings</a></li>
+      <li class="collection-item"><a href="/export">export to html</a></li>
+    </ul>

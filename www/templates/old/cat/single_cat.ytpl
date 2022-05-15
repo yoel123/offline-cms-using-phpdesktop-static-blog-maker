@@ -1,0 +1,18 @@
+<h1>
+<?php echo $cat['name']?>
+</h1>
+<div class = 'posts'>
+<?php 
+if (is_array($posts) || is_object($posts))
+{
+
+foreach($posts as $post): ?> 
+<h3>
+<?php echo $post['name']?>
+<h3>
+<img src = "../img/<?php echo $post['main_img']; ?>" class="post_img_main"/>
+<p>
+<?php echo $post['contant']?>
+</p>
+<?php endforeach; }?> 
+</div>
