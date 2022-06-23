@@ -15,7 +15,7 @@ it uses:
 -and it uses my own php framework for rapid dev
 -the search post feature is js and json
 
-##features:
+## features:
 *create update deleate read (crud) posts
 *crud for categories
 *crud for website settings (without deleate)
@@ -23,11 +23,20 @@ it uses:
 *export everything as a static html website
 *my frameworks code genrator that lets me create boilerplate crud tables fast 
 
-##how to use?
+## how to use?
 
 download the repo, extract all of the zip files, run the exe.
 
-screenshots:
+## demo static website (genrated from the offline cms):
+
+https://yoel123.github.io/offline-cms-using-phpdesktop-static-blog-maker/www/export_html/
+
+## contact me:
+
+https://ytutor.wordpress.com/contact/
+
+
+## screenshots:
 ![alt text](screenshots/1.png)
 ![alt text](screenshots/2.png)
 ![alt text](screenshots/3.png)
@@ -35,12 +44,6 @@ screenshots:
 ![alt text](screenshots/5.png)
 ![alt text](screenshots/6.png)
 ![alt text](screenshots/7.png)
-
-* hers a contact form:
-
-
-https://ytutor.wordpress.com/console-based-space-station-game/
-
 
 
 
